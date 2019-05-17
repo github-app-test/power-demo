@@ -1,3 +1,3 @@
 # power-demo
 
-This is a demo of power.
+This is a demo of power!
