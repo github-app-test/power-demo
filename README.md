@@ -1,3 +1,1 @@
-# power-demo
-
-This is the greatest project of all time
+THOU HAST BEEN PWNED
