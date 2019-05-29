@@ -2,4 +2,4 @@
 
 Finish Him!
 
-It's official; you suck!
+Fatality!
